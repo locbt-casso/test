@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.payos_demo_flutter",
+      "sha256_cert_fingerprints":
+      ["35:B6:05:13:99:B9:63:D1:44:9A:1D:C3:06:CA:8F:6A:2B:1D:2A:5D:82:22:01:73:62:28:F8:14:CE:7E:70:03"]
+    }
+  }]
